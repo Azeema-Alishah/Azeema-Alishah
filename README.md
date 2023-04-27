@@ -1,3 +1,4 @@
+ <img src = "https://cdn.dribbble.com/users/4863866/screenshots/14210638/media/954ae8b7b623a79fdffc87394cea132e.png?compress=1&resize=400x300&vertical=top" width="40%" /> 
 <h1 align="center">Hi 👋, I'm Azeema Alishah</h1>
 <h3 align="center">A passionate frontend developer from Pakistan</h3>
 
